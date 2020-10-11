@@ -32,30 +32,6 @@
     "EventGroupEvents":{
         "events": [
             {
-                "id": 116628,
-                "name": "Testsession Linus",
-                "start": "2020-10-12T08:00:00+02:00",
-                "canBeRemovedFromEventGroup": true
-            },
-            {
-                "id": 116641,
-                "name": "Testsession Linus",
-                "start": "2020-12-01T08:00:00+01:00",
-                "canBeRemovedFromEventGroup": true
-            },
-            {
-                "id": 116642,
-                "name": "Testsession Linus",
-                "start": "2020-12-08T08:00:00+01:00",
-                "canBeRemovedFromEventGroup": true
-            },
-            {
-                "id": 116643,
-                "name": "Testsession Linus",
-                "start": "2020-12-15T08:00:00+01:00",
-                "canBeRemovedFromEventGroup": true
-            },
-            {
                 "id": 116649,
                 "name": "Testsession Linus",
                 "start": "2020-12-22T08:00:00+01:00",
